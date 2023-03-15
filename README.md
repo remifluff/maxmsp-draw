@@ -5,9 +5,9 @@ A simple package that wraps maxMSP's inbuit jitter objects for easier and more i
 
 
 ## WIP
-This package is still very much a work in progress and there will be continues update over the next few months.
+This package is still very much a work in progress and there will be continuous updates over the next few months.
 
-Make sure to keep you version up to date for the latest features and objects.
+Make sure to keep your version up to date for the latest features and objects.
 
 Please contact remi.cady.freer@gmail.com if you find any major bugs.
 
